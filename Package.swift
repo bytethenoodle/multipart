@@ -14,6 +14,6 @@ let package = Package(
         .Package(url: "https://github.com/bytethenoodle/core.git", majorVersion: 2),
 
         // HTTP package for HeaderKey type
-        .Package(url: "https://github.com/vapor/engine.git", majorVersion: 2),
+        .Package(url: "https://github.com/bytethenoodle/engine.git", majorVersion: 2),
     ]
 )
